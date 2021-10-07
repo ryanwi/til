@@ -13,6 +13,10 @@ inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til]
 * [What is E.164?](https://github.com/ryanwi/til/blob/main/telecom/what-is-e-164.md)
 * [What is Kamailio?](https://github.com/ryanwi/til/blob/main/telecom/what-is-kamailio.md)
 
+## postgresql
+
+* [What is PgBouncer?](https://github.com/ryanwi/til/blob/main/postgresql/what-is-pgbouncer.md)
+
 ## git
 
 * [Conditional Includes](https://github.com/ryanwi/til/blob/main/git/conditional-includes.md)
