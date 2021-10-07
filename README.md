@@ -3,7 +3,7 @@ Today I Learned
 
 > A collection of concise write-ups on small things I learn day to day across a variety of languages and technologies.
 
-inspired by https://github.com/jbranchaud/til and https://github.com/simonw/til
+inspired by [https://github.com/jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til](https://github.com/simonw/til)
 
 ## telecom
 
