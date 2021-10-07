@@ -15,6 +15,8 @@ inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til]
 
 ## git
 
+* [Conditional Includes](https://github.com/ryanwi/til/blob/main/git/conditional-includes.md)
+
 ## chrome
 
 ## 
