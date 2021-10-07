@@ -19,4 +19,6 @@ inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til]
 
 ## chrome
 
+* [Creating a Chrome app for a site](https://github.com/ryanwi/til/blob/main/chrome/creating-chrome-app.md)
+
 ## 
