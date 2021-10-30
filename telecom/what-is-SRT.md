@@ -7,4 +7,4 @@ Sources
 * https://github.com/Haivision/srt
 * https://www.srtalliance.org/interoperability-between-rtp-and-srt/
 * https://teradek.com/blogs/articles/srt-in-a-nutshell-everything-you-need-to-know-about-wowza-s-new-transport-protocol
-* (RFC Draft)[https://datatracker.ietf.org/doc/html/draft-sharabayko-srt-00]
+* [RFC Draft](https://datatracker.ietf.org/doc/html/draft-sharabayko-srt-00)
