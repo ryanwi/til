@@ -15,6 +15,7 @@ inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til]
 * [What is FreeSWITCH?](https://github.com/ryanwi/til/blob/main/telecom/what-is-freeswitch.md)
 * [What is RTP?](https://github.com/ryanwi/til/blob/main/telecom/what-is-RTP.md)
 * [What is SRT?](https://github.com/ryanwi/til/blob/main/telecom/what-is-SRT.md)
+* [What is STIR/SHAKEN?](https://github.com/ryanwi/til/blob/main/telecom/what-is-STIR-SHAKEN.md)
 
 ## WebRTC
 
