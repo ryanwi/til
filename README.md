@@ -22,7 +22,7 @@ inspired by [jbranchaud/til](https://github.com/jbranchaud/til) and [simonw/til]
 * [What is ICE?](https://github.com/ryanwi/til/blob/main/webrtc/what-is-ICE.md)
 * [What is a SFU (Selective Forwarding Unit?)](https://github.com/ryanwi/til/blob/main/webrtc/what-is-selective-forwarding-unit.md)
 * [What is STUN?](https://github.com/ryanwi/til/blob/main/webrtc/what-is-STUN.md)
-* [WHAT is TURN?](https://github.com/ryanwi/til/blob/main/webrtc/what-is-TURN.md)
+* [What is TURN?](https://github.com/ryanwi/til/blob/main/webrtc/what-is-TURN.md)
 * [What is WHIP?](https://github.com/ryanwi/til/blob/main/webrtc/what-is-WHIP.md)
 
 ## postgresql
