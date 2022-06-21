@@ -11,3 +11,5 @@
 ## Sources
 * https://bloggeek.me/webrtcglossary/stun/
 * https://datatracker.ietf.org/doc/html/rfc5389
+* https://developer.mozilla.org/en-US/docs/Web/API/WebRTC_API/Protocols#stun
+* https://en.wikipedia.org/wiki/STUN
